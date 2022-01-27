@@ -1,0 +1,31 @@
+/* .contain{
+    display: flex;
+    margin: 10px;
+    border: 1px solid #fff;
+}
+.table {
+    margin-top: 40px;
+} */
+
+.adminhome{
+    display: flex;
+    height: 100%;
+   
+}
+.adminhome .sidebar {
+    width: 15%;
+    height: 100vh;
+    background: #333;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.adminhome .comps {
+    width: 85%;
+    height: 100%;
+    background: whitesmoke;
+}
+.sidebar button{
+    color: #333;
+}

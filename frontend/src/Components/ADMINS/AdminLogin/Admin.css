@@ -1,0 +1,26 @@
+.main{
+    /* width:100%; */
+    background-color: #333;
+    /* height:100vh; */
+    position: absolute;
+    top: 34%;
+    left: 38%;
+    padding: 25px;
+}
+.main .sub{
+    margin:30px;
+    display:block;
+    padding:20px
+
+}
+.sub input{
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+}
+.sub button{
+    background: #fff;
+}
+.main h1{
+    color: #fff;
+}
